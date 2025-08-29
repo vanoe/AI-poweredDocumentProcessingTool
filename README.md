@@ -7,12 +7,7 @@ This tool helps lawyers and finance teams quickly review and understand large do
 
 ## 🔹 Scheme
 
-<details>
-<summary>Click to expand the workflow diagram</summary>
-
-*(Insert diagram or flowchart here: Document Ingestion → Clause Extraction → RAG → Summaries & Answers)*
-
-</details>
+<img src="./img/img-1.png" alt="Scheme" />
 
 ---
 
