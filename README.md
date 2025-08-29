@@ -92,6 +92,41 @@ This platform combines **Legal BERT** and **GPT-4o** in a **Retrieval-Augmented 
     </tbody>
 </table>
 
+### 📄 PDF Examples
+
+[📄 Brew Haven – Franchise Operations Manual](./src/Brew_Haven–Franchise_Operations_Manual.pdf)
+
+[📄 Processing results-Brew Haven, Tastico](./src/Processing_results-Brew_Haven_Tastico.pdf)
+
+[📄 Tastico Grill – Franchise Operations Manual](./src/Tastico_Grill–Franchise_Operations_Manual.pdf)
+
+### 🎥 Video Examples
+
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <video src=" " controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src=" " controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <video src=" " controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
 ---
 
 ## 📖 Full Description
