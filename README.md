@@ -106,19 +106,31 @@ This platform combines **Legal BERT** and **GPT-4o** in a **Retrieval-Augmented 
     <tbody>
         <tr>
             <td>
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/12a1a46e-a77b-40d8-ad9c-b2c4f2cdf376" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td>
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/3ad6931e-89a3-48dc-beb7-92a3fcf2754e" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
         </tr>
         <tr>
             <td>
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/75cad1fe-3be3-423d-9f9b-bae09ec796fa" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src="https://github.com/user-attachments/assets/460a4789-5966-4360-9a6b-4c6e55454dfb" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <video src="https://github.com/user-attachments/assets/966fe6e2-4571-4e21-9384-9c711e8626e7" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
