@@ -23,6 +23,77 @@ This platform combines **Legal BERT** and **GPT-4o** in a **Retrieval-Augmented 
 
 ---
 
+## 🧩 Examples
+
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <img src="./img/img-2.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-3.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-4.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-5.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-6.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-7.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-8.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-9.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-10.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-11.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-12.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-13.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-14.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-15.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-16.png" alt="img" />
+            </td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
 ## 🔍 Problem Solved
 
 Manual document review and knowledge retrieval are:
